@@ -9,8 +9,9 @@
 ---
 
 - ###### **Certificaciones**:
-	 NDG Linux Essentials.
-	 Cisco CCNA : Introduction to Networks
+	 - NDG Linux Essentials.
+  
+	- Cisco CCNA : Introduction to Networks
 
 
 ---

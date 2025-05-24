@@ -7,6 +7,7 @@
 - Juego CTF's de vez en cuando.
 - Tambien hago crackmes ocacionalmente.
 - Entusiasta y me gusta hacer herramientas de vez en cuando.
+- Me gusta el Red Team y me interesa la explotación binaria.
 ---
 
 - ###### **Certificaciones**:

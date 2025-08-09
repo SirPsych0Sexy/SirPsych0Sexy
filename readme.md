@@ -14,6 +14,8 @@
 	 - NDG Linux Essentials.
   
 	- Cisco CCNA : Introduction to Networks
+   
+    - Fortinet Certificate Associated (FCA)
 
 
 ---

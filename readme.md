@@ -26,6 +26,7 @@
 
 #### **ROAD TO CRTO**
 
-[![TryHackMe Badge](https://tryhackme.com/api/badges/public-profile-image?userPublicId=281377)](https://tryhackme.com/user/281377)
+![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/Sp1k3.png)
+
 
 

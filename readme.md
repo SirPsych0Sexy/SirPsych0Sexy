@@ -26,5 +26,6 @@
 
 #### **ROAD TO CRTO**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=281377" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/badges/public-profile-image?userPublicId=281377)](https://tryhackme.com/user/281377)
+
 
